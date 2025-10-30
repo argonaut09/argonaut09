@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Danial 👋
 
-<!--
-**argonaut09/argonaut09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT student exploring the world of:
+- Web development & Supabase
+- Linux & server administration
+- Cybersecurity & self-hosting
+- Git, GitHub & open-source workflows
 
-Here are some ideas to get you started:
+🚀 Currently building: 
+- Personal portfolio website
+- HR management system (Lovable + Supabase)
+- DIY wireless knock-detection system (ESP-NOW)
+- Personal NAS + self-hosted services
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Goals:
+- Become a full-stack developer with DevOps skills
+- Host my own services and apps on my server
+- Contribute to open-source projects
+
+📚 Always Learning:
+> "Make progress daily — even small steps count."
+
+Connect soon — more projects coming 👇
